@@ -7,6 +7,7 @@
 <div>[Homework JS5]<a href = "https://oldrik1.github.io/GS-HW/HWJS5">(https://oldrik1.github.io/GS-HW/HWJS5)</a></div>
 <div>[Homework JS6]<a href = "https://oldrik1.github.io/GS-HW/HWJS6">(https://oldrik1.github.io/GS-HW/HWJS6)</a></div>
 <div>[Homework JS7]<a href = "https://oldrik1.github.io/GS-HW/HWJS7">(https://oldrik1.github.io/GS-HW/HWJS7)</a></div>
+<div>[Homework JS8]<a href = "https://oldrik1.github.io/GS-HW/HWJS8">(https://oldrik1.github.io/GS-HW/HWJS8)</a></div>
 
 
 
